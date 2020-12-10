@@ -1,0 +1,15 @@
+{
+    "name": "my-electron-app",
+    "version": "0.1.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "crypto": "^1.0.1",
+        "electron": "^11.0.4",
+        "glob": "^7.1.6",
+        "http": "0.0.1-security",
+        "request": "^2.88.2"
+    }
+}

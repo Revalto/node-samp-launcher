@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SA:MP Launcher v1.0 by Revalto!</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <script>
+        window.$ = window.jQuery = require('./js/jquery-3.5.1.js');
+    </script>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    
+    <diw class="wrapper">
+        <section class="wall">
+            <div class="servers"></div>
+        </section>
+    
+        <footer>
+            <div class="progress">
+                <progress id="downloaded" max="100" value="100"></progress>
+                <div class="info-block">
+                    Все хорошо!
+                </div>
+                <div class="progress-bg">
+                    <div class="progress-bar"></div>
+                </div>
+            </div>
+            <input type="text" id="name" name="name" placeholder="Игровой ник" value="Samuel_Revalto">
+        </footer>
+    </diw>
+
+    <script src="./js/launcher.js"></script>
+</body>
+</html>

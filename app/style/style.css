@@ -1,0 +1,993 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  padding: 0;
+  margin: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 15, 37, 0.8)), to(rgba(0, 0, 0, 0.5))), url("../img/bg.jpg");
+  background: linear-gradient(rgba(26, 15, 37, 0.8), rgba(0, 0, 0, 0.5)), url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  color: #FFF;
+  font-weight: 400;
+}
+
+input {
+  padding: 10px;
+  margin: 0 0 20px;
+  background: none;
+  border: none;
+  outline: none;
+  color: #FFF;
+}
+
+input[type="text"],
+input[type="password"] {
+  border-bottom: 1px solid rgba(212, 212, 212, 0.3);
+}
+
+input[type="text"]::-webkit-input-placeholder,
+input[type="password"]::-webkit-input-placeholder {
+  color: #FFF;
+  font-size: 14px;
+}
+
+input[type="text"]:-ms-input-placeholder,
+input[type="password"]:-ms-input-placeholder {
+  color: #FFF;
+  font-size: 14px;
+}
+
+input[type="text"]::-ms-input-placeholder,
+input[type="password"]::-ms-input-placeholder {
+  color: #FFF;
+  font-size: 14px;
+}
+
+input[type="text"]::placeholder,
+input[type="password"]::placeholder {
+  color: #FFF;
+  font-size: 14px;
+}
+
+input[type="submit"],
+input[type="button"] {
+  width: 150px;
+  background-color: rgba(212, 212, 212, 0.3);
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover {
+  background-color: rgba(212, 212, 212, 0.4);
+}
+
+.progress progress[value="0"] + .progress-value:before {
+  content: "0%";
+}
+
+.progress progress[value="0"] ~ .progress-bg .progress-bar {
+  width: 0%;
+}
+
+.progress progress[value="1"] + .progress-value:before {
+  content: "1%";
+}
+
+.progress progress[value="1"] ~ .progress-bg .progress-bar {
+  width: 1%;
+}
+
+.progress progress[value="2"] + .progress-value:before {
+  content: "2%";
+}
+
+.progress progress[value="2"] ~ .progress-bg .progress-bar {
+  width: 2%;
+}
+
+.progress progress[value="3"] + .progress-value:before {
+  content: "3%";
+}
+
+.progress progress[value="3"] ~ .progress-bg .progress-bar {
+  width: 3%;
+}
+
+.progress progress[value="4"] + .progress-value:before {
+  content: "4%";
+}
+
+.progress progress[value="4"] ~ .progress-bg .progress-bar {
+  width: 4%;
+}
+
+.progress progress[value="5"] + .progress-value:before {
+  content: "5%";
+}
+
+.progress progress[value="5"] ~ .progress-bg .progress-bar {
+  width: 5%;
+}
+
+.progress progress[value="6"] + .progress-value:before {
+  content: "6%";
+}
+
+.progress progress[value="6"] ~ .progress-bg .progress-bar {
+  width: 6%;
+}
+
+.progress progress[value="7"] + .progress-value:before {
+  content: "7%";
+}
+
+.progress progress[value="7"] ~ .progress-bg .progress-bar {
+  width: 7%;
+}
+
+.progress progress[value="8"] + .progress-value:before {
+  content: "8%";
+}
+
+.progress progress[value="8"] ~ .progress-bg .progress-bar {
+  width: 8%;
+}
+
+.progress progress[value="9"] + .progress-value:before {
+  content: "9%";
+}
+
+.progress progress[value="9"] ~ .progress-bg .progress-bar {
+  width: 9%;
+}
+
+.progress progress[value="10"] + .progress-value:before {
+  content: "10%";
+}
+
+.progress progress[value="10"] ~ .progress-bg .progress-bar {
+  width: 10%;
+}
+
+.progress progress[value="11"] + .progress-value:before {
+  content: "11%";
+}
+
+.progress progress[value="11"] ~ .progress-bg .progress-bar {
+  width: 11%;
+}
+
+.progress progress[value="12"] + .progress-value:before {
+  content: "12%";
+}
+
+.progress progress[value="12"] ~ .progress-bg .progress-bar {
+  width: 12%;
+}
+
+.progress progress[value="13"] + .progress-value:before {
+  content: "13%";
+}
+
+.progress progress[value="13"] ~ .progress-bg .progress-bar {
+  width: 13%;
+}
+
+.progress progress[value="14"] + .progress-value:before {
+  content: "14%";
+}
+
+.progress progress[value="14"] ~ .progress-bg .progress-bar {
+  width: 14%;
+}
+
+.progress progress[value="15"] + .progress-value:before {
+  content: "15%";
+}
+
+.progress progress[value="15"] ~ .progress-bg .progress-bar {
+  width: 15%;
+}
+
+.progress progress[value="16"] + .progress-value:before {
+  content: "16%";
+}
+
+.progress progress[value="16"] ~ .progress-bg .progress-bar {
+  width: 16%;
+}
+
+.progress progress[value="17"] + .progress-value:before {
+  content: "17%";
+}
+
+.progress progress[value="17"] ~ .progress-bg .progress-bar {
+  width: 17%;
+}
+
+.progress progress[value="18"] + .progress-value:before {
+  content: "18%";
+}
+
+.progress progress[value="18"] ~ .progress-bg .progress-bar {
+  width: 18%;
+}
+
+.progress progress[value="19"] + .progress-value:before {
+  content: "19%";
+}
+
+.progress progress[value="19"] ~ .progress-bg .progress-bar {
+  width: 19%;
+}
+
+.progress progress[value="20"] + .progress-value:before {
+  content: "20%";
+}
+
+.progress progress[value="20"] ~ .progress-bg .progress-bar {
+  width: 20%;
+}
+
+.progress progress[value="21"] + .progress-value:before {
+  content: "21%";
+}
+
+.progress progress[value="21"] ~ .progress-bg .progress-bar {
+  width: 21%;
+}
+
+.progress progress[value="22"] + .progress-value:before {
+  content: "22%";
+}
+
+.progress progress[value="22"] ~ .progress-bg .progress-bar {
+  width: 22%;
+}
+
+.progress progress[value="23"] + .progress-value:before {
+  content: "23%";
+}
+
+.progress progress[value="23"] ~ .progress-bg .progress-bar {
+  width: 23%;
+}
+
+.progress progress[value="24"] + .progress-value:before {
+  content: "24%";
+}
+
+.progress progress[value="24"] ~ .progress-bg .progress-bar {
+  width: 24%;
+}
+
+.progress progress[value="25"] + .progress-value:before {
+  content: "25%";
+}
+
+.progress progress[value="25"] ~ .progress-bg .progress-bar {
+  width: 25%;
+}
+
+.progress progress[value="26"] + .progress-value:before {
+  content: "26%";
+}
+
+.progress progress[value="26"] ~ .progress-bg .progress-bar {
+  width: 26%;
+}
+
+.progress progress[value="27"] + .progress-value:before {
+  content: "27%";
+}
+
+.progress progress[value="27"] ~ .progress-bg .progress-bar {
+  width: 27%;
+}
+
+.progress progress[value="28"] + .progress-value:before {
+  content: "28%";
+}
+
+.progress progress[value="28"] ~ .progress-bg .progress-bar {
+  width: 28%;
+}
+
+.progress progress[value="29"] + .progress-value:before {
+  content: "29%";
+}
+
+.progress progress[value="29"] ~ .progress-bg .progress-bar {
+  width: 29%;
+}
+
+.progress progress[value="30"] + .progress-value:before {
+  content: "30%";
+}
+
+.progress progress[value="30"] ~ .progress-bg .progress-bar {
+  width: 30%;
+}
+
+.progress progress[value="31"] + .progress-value:before {
+  content: "31%";
+}
+
+.progress progress[value="31"] ~ .progress-bg .progress-bar {
+  width: 31%;
+}
+
+.progress progress[value="32"] + .progress-value:before {
+  content: "32%";
+}
+
+.progress progress[value="32"] ~ .progress-bg .progress-bar {
+  width: 32%;
+}
+
+.progress progress[value="33"] + .progress-value:before {
+  content: "33%";
+}
+
+.progress progress[value="33"] ~ .progress-bg .progress-bar {
+  width: 33%;
+}
+
+.progress progress[value="34"] + .progress-value:before {
+  content: "34%";
+}
+
+.progress progress[value="34"] ~ .progress-bg .progress-bar {
+  width: 34%;
+}
+
+.progress progress[value="35"] + .progress-value:before {
+  content: "35%";
+}
+
+.progress progress[value="35"] ~ .progress-bg .progress-bar {
+  width: 35%;
+}
+
+.progress progress[value="36"] + .progress-value:before {
+  content: "36%";
+}
+
+.progress progress[value="36"] ~ .progress-bg .progress-bar {
+  width: 36%;
+}
+
+.progress progress[value="37"] + .progress-value:before {
+  content: "37%";
+}
+
+.progress progress[value="37"] ~ .progress-bg .progress-bar {
+  width: 37%;
+}
+
+.progress progress[value="38"] + .progress-value:before {
+  content: "38%";
+}
+
+.progress progress[value="38"] ~ .progress-bg .progress-bar {
+  width: 38%;
+}
+
+.progress progress[value="39"] + .progress-value:before {
+  content: "39%";
+}
+
+.progress progress[value="39"] ~ .progress-bg .progress-bar {
+  width: 39%;
+}
+
+.progress progress[value="40"] + .progress-value:before {
+  content: "40%";
+}
+
+.progress progress[value="40"] ~ .progress-bg .progress-bar {
+  width: 40%;
+}
+
+.progress progress[value="41"] + .progress-value:before {
+  content: "41%";
+}
+
+.progress progress[value="41"] ~ .progress-bg .progress-bar {
+  width: 41%;
+}
+
+.progress progress[value="42"] + .progress-value:before {
+  content: "42%";
+}
+
+.progress progress[value="42"] ~ .progress-bg .progress-bar {
+  width: 42%;
+}
+
+.progress progress[value="43"] + .progress-value:before {
+  content: "43%";
+}
+
+.progress progress[value="43"] ~ .progress-bg .progress-bar {
+  width: 43%;
+}
+
+.progress progress[value="44"] + .progress-value:before {
+  content: "44%";
+}
+
+.progress progress[value="44"] ~ .progress-bg .progress-bar {
+  width: 44%;
+}
+
+.progress progress[value="45"] + .progress-value:before {
+  content: "45%";
+}
+
+.progress progress[value="45"] ~ .progress-bg .progress-bar {
+  width: 45%;
+}
+
+.progress progress[value="46"] + .progress-value:before {
+  content: "46%";
+}
+
+.progress progress[value="46"] ~ .progress-bg .progress-bar {
+  width: 46%;
+}
+
+.progress progress[value="47"] + .progress-value:before {
+  content: "47%";
+}
+
+.progress progress[value="47"] ~ .progress-bg .progress-bar {
+  width: 47%;
+}
+
+.progress progress[value="48"] + .progress-value:before {
+  content: "48%";
+}
+
+.progress progress[value="48"] ~ .progress-bg .progress-bar {
+  width: 48%;
+}
+
+.progress progress[value="49"] + .progress-value:before {
+  content: "49%";
+}
+
+.progress progress[value="49"] ~ .progress-bg .progress-bar {
+  width: 49%;
+}
+
+.progress progress[value="50"] + .progress-value:before {
+  content: "50%";
+}
+
+.progress progress[value="50"] ~ .progress-bg .progress-bar {
+  width: 50%;
+}
+
+.progress progress[value="51"] + .progress-value:before {
+  content: "51%";
+}
+
+.progress progress[value="51"] ~ .progress-bg .progress-bar {
+  width: 51%;
+}
+
+.progress progress[value="52"] + .progress-value:before {
+  content: "52%";
+}
+
+.progress progress[value="52"] ~ .progress-bg .progress-bar {
+  width: 52%;
+}
+
+.progress progress[value="53"] + .progress-value:before {
+  content: "53%";
+}
+
+.progress progress[value="53"] ~ .progress-bg .progress-bar {
+  width: 53%;
+}
+
+.progress progress[value="54"] + .progress-value:before {
+  content: "54%";
+}
+
+.progress progress[value="54"] ~ .progress-bg .progress-bar {
+  width: 54%;
+}
+
+.progress progress[value="55"] + .progress-value:before {
+  content: "55%";
+}
+
+.progress progress[value="55"] ~ .progress-bg .progress-bar {
+  width: 55%;
+}
+
+.progress progress[value="56"] + .progress-value:before {
+  content: "56%";
+}
+
+.progress progress[value="56"] ~ .progress-bg .progress-bar {
+  width: 56%;
+}
+
+.progress progress[value="57"] + .progress-value:before {
+  content: "57%";
+}
+
+.progress progress[value="57"] ~ .progress-bg .progress-bar {
+  width: 57%;
+}
+
+.progress progress[value="58"] + .progress-value:before {
+  content: "58%";
+}
+
+.progress progress[value="58"] ~ .progress-bg .progress-bar {
+  width: 58%;
+}
+
+.progress progress[value="59"] + .progress-value:before {
+  content: "59%";
+}
+
+.progress progress[value="59"] ~ .progress-bg .progress-bar {
+  width: 59%;
+}
+
+.progress progress[value="60"] + .progress-value:before {
+  content: "60%";
+}
+
+.progress progress[value="60"] ~ .progress-bg .progress-bar {
+  width: 60%;
+}
+
+.progress progress[value="61"] + .progress-value:before {
+  content: "61%";
+}
+
+.progress progress[value="61"] ~ .progress-bg .progress-bar {
+  width: 61%;
+}
+
+.progress progress[value="62"] + .progress-value:before {
+  content: "62%";
+}
+
+.progress progress[value="62"] ~ .progress-bg .progress-bar {
+  width: 62%;
+}
+
+.progress progress[value="63"] + .progress-value:before {
+  content: "63%";
+}
+
+.progress progress[value="63"] ~ .progress-bg .progress-bar {
+  width: 63%;
+}
+
+.progress progress[value="64"] + .progress-value:before {
+  content: "64%";
+}
+
+.progress progress[value="64"] ~ .progress-bg .progress-bar {
+  width: 64%;
+}
+
+.progress progress[value="65"] + .progress-value:before {
+  content: "65%";
+}
+
+.progress progress[value="65"] ~ .progress-bg .progress-bar {
+  width: 65%;
+}
+
+.progress progress[value="66"] + .progress-value:before {
+  content: "66%";
+}
+
+.progress progress[value="66"] ~ .progress-bg .progress-bar {
+  width: 66%;
+}
+
+.progress progress[value="67"] + .progress-value:before {
+  content: "67%";
+}
+
+.progress progress[value="67"] ~ .progress-bg .progress-bar {
+  width: 67%;
+}
+
+.progress progress[value="68"] + .progress-value:before {
+  content: "68%";
+}
+
+.progress progress[value="68"] ~ .progress-bg .progress-bar {
+  width: 68%;
+}
+
+.progress progress[value="69"] + .progress-value:before {
+  content: "69%";
+}
+
+.progress progress[value="69"] ~ .progress-bg .progress-bar {
+  width: 69%;
+}
+
+.progress progress[value="70"] + .progress-value:before {
+  content: "70%";
+}
+
+.progress progress[value="70"] ~ .progress-bg .progress-bar {
+  width: 70%;
+}
+
+.progress progress[value="71"] + .progress-value:before {
+  content: "71%";
+}
+
+.progress progress[value="71"] ~ .progress-bg .progress-bar {
+  width: 71%;
+}
+
+.progress progress[value="72"] + .progress-value:before {
+  content: "72%";
+}
+
+.progress progress[value="72"] ~ .progress-bg .progress-bar {
+  width: 72%;
+}
+
+.progress progress[value="73"] + .progress-value:before {
+  content: "73%";
+}
+
+.progress progress[value="73"] ~ .progress-bg .progress-bar {
+  width: 73%;
+}
+
+.progress progress[value="74"] + .progress-value:before {
+  content: "74%";
+}
+
+.progress progress[value="74"] ~ .progress-bg .progress-bar {
+  width: 74%;
+}
+
+.progress progress[value="75"] + .progress-value:before {
+  content: "75%";
+}
+
+.progress progress[value="75"] ~ .progress-bg .progress-bar {
+  width: 75%;
+}
+
+.progress progress[value="76"] + .progress-value:before {
+  content: "76%";
+}
+
+.progress progress[value="76"] ~ .progress-bg .progress-bar {
+  width: 76%;
+}
+
+.progress progress[value="77"] + .progress-value:before {
+  content: "77%";
+}
+
+.progress progress[value="77"] ~ .progress-bg .progress-bar {
+  width: 77%;
+}
+
+.progress progress[value="78"] + .progress-value:before {
+  content: "78%";
+}
+
+.progress progress[value="78"] ~ .progress-bg .progress-bar {
+  width: 78%;
+}
+
+.progress progress[value="79"] + .progress-value:before {
+  content: "79%";
+}
+
+.progress progress[value="79"] ~ .progress-bg .progress-bar {
+  width: 79%;
+}
+
+.progress progress[value="80"] + .progress-value:before {
+  content: "80%";
+}
+
+.progress progress[value="80"] ~ .progress-bg .progress-bar {
+  width: 80%;
+}
+
+.progress progress[value="81"] + .progress-value:before {
+  content: "81%";
+}
+
+.progress progress[value="81"] ~ .progress-bg .progress-bar {
+  width: 81%;
+}
+
+.progress progress[value="82"] + .progress-value:before {
+  content: "82%";
+}
+
+.progress progress[value="82"] ~ .progress-bg .progress-bar {
+  width: 82%;
+}
+
+.progress progress[value="83"] + .progress-value:before {
+  content: "83%";
+}
+
+.progress progress[value="83"] ~ .progress-bg .progress-bar {
+  width: 83%;
+}
+
+.progress progress[value="84"] + .progress-value:before {
+  content: "84%";
+}
+
+.progress progress[value="84"] ~ .progress-bg .progress-bar {
+  width: 84%;
+}
+
+.progress progress[value="85"] + .progress-value:before {
+  content: "85%";
+}
+
+.progress progress[value="85"] ~ .progress-bg .progress-bar {
+  width: 85%;
+}
+
+.progress progress[value="86"] + .progress-value:before {
+  content: "86%";
+}
+
+.progress progress[value="86"] ~ .progress-bg .progress-bar {
+  width: 86%;
+}
+
+.progress progress[value="87"] + .progress-value:before {
+  content: "87%";
+}
+
+.progress progress[value="87"] ~ .progress-bg .progress-bar {
+  width: 87%;
+}
+
+.progress progress[value="88"] + .progress-value:before {
+  content: "88%";
+}
+
+.progress progress[value="88"] ~ .progress-bg .progress-bar {
+  width: 88%;
+}
+
+.progress progress[value="89"] + .progress-value:before {
+  content: "89%";
+}
+
+.progress progress[value="89"] ~ .progress-bg .progress-bar {
+  width: 89%;
+}
+
+.progress progress[value="90"] + .progress-value:before {
+  content: "90%";
+}
+
+.progress progress[value="90"] ~ .progress-bg .progress-bar {
+  width: 90%;
+}
+
+.progress progress[value="91"] + .progress-value:before {
+  content: "91%";
+}
+
+.progress progress[value="91"] ~ .progress-bg .progress-bar {
+  width: 91%;
+}
+
+.progress progress[value="92"] + .progress-value:before {
+  content: "92%";
+}
+
+.progress progress[value="92"] ~ .progress-bg .progress-bar {
+  width: 92%;
+}
+
+.progress progress[value="93"] + .progress-value:before {
+  content: "93%";
+}
+
+.progress progress[value="93"] ~ .progress-bg .progress-bar {
+  width: 93%;
+}
+
+.progress progress[value="94"] + .progress-value:before {
+  content: "94%";
+}
+
+.progress progress[value="94"] ~ .progress-bg .progress-bar {
+  width: 94%;
+}
+
+.progress progress[value="95"] + .progress-value:before {
+  content: "95%";
+}
+
+.progress progress[value="95"] ~ .progress-bg .progress-bar {
+  width: 95%;
+}
+
+.progress progress[value="96"] + .progress-value:before {
+  content: "96%";
+}
+
+.progress progress[value="96"] ~ .progress-bg .progress-bar {
+  width: 96%;
+}
+
+.progress progress[value="97"] + .progress-value:before {
+  content: "97%";
+}
+
+.progress progress[value="97"] ~ .progress-bg .progress-bar {
+  width: 97%;
+}
+
+.progress progress[value="98"] + .progress-value:before {
+  content: "98%";
+}
+
+.progress progress[value="98"] ~ .progress-bg .progress-bar {
+  width: 98%;
+}
+
+.progress progress[value="99"] + .progress-value:before {
+  content: "99%";
+}
+
+.progress progress[value="99"] ~ .progress-bg .progress-bar {
+  width: 99%;
+}
+
+.progress progress[value="100"] + .progress-value:before {
+  content: "100%";
+}
+
+.progress progress[value="100"] ~ .progress-bg .progress-bar {
+  width: 100%;
+}
+
+.progress {
+  font: 12px Arial, Tahoma, sans-serif;
+  position: relative;
+  overflow: hidden;
+  width: 800px;
+}
+
+.progress progress {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  left: -777px;
+}
+
+.progress .progress-value {
+  color: #FFF;
+  display: block;
+  line-height: 21px;
+  text-align: center;
+}
+
+.progress .info-block {
+  color: #FFF;
+  display: block;
+  line-height: 21px;
+  text-align: center;
+}
+
+.progress .progress-bg {
+  background: #e6e9ed;
+  position: relative;
+  height: 25px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+@-webkit-keyframes progress_bar {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -40px 0;
+  }
+}
+
+@keyframes progress_bar {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -40px 0;
+  }
+}
+
+.progress .progress-bar {
+  overflow: hidden;
+  background: #616161;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  -webkit-transition: width 1s linear;
+  transition: width 1s linear;
+}
+
+.progress .progress-bar:after {
+  -webkit-animation: progress_bar 0.8s linear infinite;
+  animation: progress_bar 0.8s linear infinite;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-size: 40px 40px;
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.wall {
+  min-height: calc(100vh - 80px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.wall .servers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wall .servers .servers__item {
+  text-align: center;
+}
+
+.wall .servers .servers__item:not(:first-child) {
+  margin-left: 150px;
+}
+
+footer {
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,2234 @@
+{
+    "files": [
+        {
+            "name": "anim.img",
+            "path": "anim",
+            "hash": "3359ba8cb820299161199ee7ef3f1c02"
+        },
+        {
+            "name": "cuts.img",
+            "path": "anim",
+            "hash": "2afcb246fe97406b47f4c59deaf5b716"
+        },
+        {
+            "name": "ped.ifp",
+            "path": "anim",
+            "hash": "4736b2c90b00981255f9507308ee9174"
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "path": "audio/CONFIG",
+            "hash": "4f15962340d51394d47a60e11cdbb608"
+        },
+        {
+            "name": "BankLkup.dat",
+            "path": "audio/CONFIG",
+            "hash": "b45905c794677467644240aa9abc2f60"
+        },
+        {
+            "name": "BankSlot.dat",
+            "path": "audio/CONFIG",
+            "hash": "da40c568a349b58c78c2a8faf8da95a9"
+        },
+        {
+            "name": "EventVol.dat",
+            "path": "audio/CONFIG",
+            "hash": "d676adc31b1d0a95631451344892ddd2"
+        },
+        {
+            "name": "PakFiles.dat",
+            "path": "audio/CONFIG",
+            "hash": "db1e657a3baafbb86cd1b715c5282c66"
+        },
+        {
+            "name": "StrmPaks.dat",
+            "path": "audio/CONFIG",
+            "hash": "6e65fd943ad6b0bbbc032e1f081ce699"
+        },
+        {
+            "name": "TrakLkup.dat",
+            "path": "audio/CONFIG",
+            "hash": "528e75d663b8bae072a01351081a2145"
+        },
+        {
+            "name": "FEET",
+            "path": "audio/SFX",
+            "hash": "1717fe0644d83f7464665808b4b71b80"
+        },
+        {
+            "name": "GENRL",
+            "path": "audio/SFX",
+            "hash": "7813ccc099987ff9e51c136ed919f665"
+        },
+        {
+            "name": "PAIN_A",
+            "path": "audio/SFX",
+            "hash": "80629d549f026ef5d27b6ac9fa453f90"
+        },
+        {
+            "name": "SCRIPT",
+            "path": "audio/SFX",
+            "hash": "c32a4277b6872df2c8e630da8822778a"
+        },
+        {
+            "name": "SPC_EA",
+            "path": "audio/SFX",
+            "hash": "24cc5f759d63838852eefb65251b5989"
+        },
+        {
+            "name": "SPC_FA",
+            "path": "audio/SFX",
+            "hash": "3d0b77d5b48f450e118172d68317941c"
+        },
+        {
+            "name": "SPC_GA",
+            "path": "audio/SFX",
+            "hash": "e817e9ee417cd5d99de0dbf7dc04d869"
+        },
+        {
+            "name": "SPC_NA",
+            "path": "audio/SFX",
+            "hash": "b3c47f66781ce3db74c63c2676185765"
+        },
+        {
+            "name": "SPC_PA",
+            "path": "audio/SFX",
+            "hash": "86d9efc06f19308875148b9cf0f8e1c3"
+        },
+        {
+            "name": "AA",
+            "path": "audio/streams",
+            "hash": "0f188011ba849665440dc03b62d6ca72"
+        },
+        {
+            "name": "ADVERTS",
+            "path": "audio/streams",
+            "hash": "3649bb4a3cb2439aeec00dfee685fc7f"
+        },
+        {
+            "name": "AMBIENCE",
+            "path": "audio/streams",
+            "hash": "b7d437493764d9ba333e786ce10c1b67"
+        },
+        {
+            "name": "BEATS",
+            "path": "audio/streams",
+            "hash": "e26d86c7805d090d8210086876d6c35c"
+        },
+        {
+            "name": "CH",
+            "path": "audio/streams",
+            "hash": "fe31259226e0b4a8a963c70840e1fe8f"
+        },
+        {
+            "name": "CO",
+            "path": "audio/streams",
+            "hash": "c40bd5d69c17d182b653db890cb38001"
+        },
+        {
+            "name": "CR",
+            "path": "audio/streams",
+            "hash": "900148b8141ea4c1e782c3a48dbfbf3b"
+        },
+        {
+            "name": "CUTSCENE",
+            "path": "audio/streams",
+            "hash": "c25fcaa329b3d48f197ff4ed2a1d2a4d"
+        },
+        {
+            "name": "DS",
+            "path": "audio/streams",
+            "hash": "9b4c18e4f3e82f0fee41e30b2ea2246a"
+        },
+        {
+            "name": "HC",
+            "path": "audio/streams",
+            "hash": "4e6f0c294db93ab7b086f14d0ee3cf54"
+        },
+        {
+            "name": "MH",
+            "path": "audio/streams",
+            "hash": "909e7c4a7a29473e3885a96f987d7221"
+        },
+        {
+            "name": "MR",
+            "path": "audio/streams",
+            "hash": "a1ec1cbe16dbb9f73022c6f33658abe2"
+        },
+        {
+            "name": "NJ",
+            "path": "audio/streams",
+            "hash": "e48b03a281243aeeb021f4b5323965e5"
+        },
+        {
+            "name": "RE",
+            "path": "audio/streams",
+            "hash": "49b83551c684e17164f2047dcba3e5aa"
+        },
+        {
+            "name": "RG",
+            "path": "audio/streams",
+            "hash": "7491dc5325854c7117af6e31900f38dd"
+        },
+        {
+            "name": "TK",
+            "path": "audio/streams",
+            "hash": "8b83278106608ac1954cc4fb688d0f52"
+        },
+        {
+            "name": "bass.dll",
+            "path": "",
+            "hash": "9586e7be6ae8016932038932d1417241"
+        },
+        {
+            "name": "animgrp.dat",
+            "path": "data",
+            "hash": "6a484b0b2356c524207d939487f1bff1"
+        },
+        {
+            "name": "animviewer.dat",
+            "path": "data",
+            "hash": "f856ba3a4ba25ae10b561aa764fba0c4"
+        },
+        {
+            "name": "ar_stats.dat",
+            "path": "data",
+            "hash": "a98936b0f3523f23cad2eacc0eaf7a9b"
+        },
+        {
+            "name": "AudioEvents.txt",
+            "path": "data",
+            "hash": "f638fae1023422aef37b22b336e7fdc6"
+        },
+        {
+            "name": "carcols.dat",
+            "path": "data",
+            "hash": "2b33843e79bd113873a5d0fb02157749"
+        },
+        {
+            "name": "cargrp.dat",
+            "path": "data",
+            "hash": "63138ab62a10428a7c88f0be8ece094d"
+        },
+        {
+            "name": "carmods.dat",
+            "path": "data",
+            "hash": "6cbe845361e76aae35ddca300867cadf"
+        },
+        {
+            "name": "clothes.dat",
+            "path": "data",
+            "hash": "8762637e580eb936111859ffa29bddb4"
+        },
+        {
+            "name": "Cop.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "2b2456482e8719e8c64877070fecee7f"
+        },
+        {
+            "name": "Fireman.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "99ef637f82455921c9572fede370e33b"
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "cd6e25e2a07fa5e1cc2f0d952c51f3af"
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "5071731f4fd49d79b0562c7dec9a673b"
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "149d0c778cab34b995d3958f44eeb18b"
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "d6ed517e1e6809c6ad0e9e2c163f410e"
+        },
+        {
+            "name": "m_plyr.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "50ec4c398f482bbe9428e1011b4bc0b2"
+        },
+        {
+            "name": "m_steal.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "ea0e40c00071a4a9446c19b12bf5a035"
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "be9ea5daacc227b8383b9c84a5b3fa9b"
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "03dc3abafa80abec285adc0bddee6777"
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "data/Decision/Allowed",
+            "hash": "837dd1e06da29bf5d7210a9074164cf2"
+        },
+        {
+            "name": "R_Norm.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "75d670db732344ec3f90e7db71b1e3a6"
+        },
+        {
+            "name": "R_Tough.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "b3e4ca143c1bbcbf99ebf70ef95e7343"
+        },
+        {
+            "name": "R_Weak.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "3cddd65754ad3c6ee8aec71b8a69b6c3"
+        },
+        {
+            "name": "RANDOM.grp",
+            "path": "data/Decision/Allowed",
+            "hash": "cda22c3bed5dd3742542084461082d24"
+        },
+        {
+            "name": "RANDOM.ped",
+            "path": "data/Decision/Allowed",
+            "hash": "d6ed517e1e6809c6ad0e9e2c163f410e"
+        },
+        {
+            "name": "RANDOM2.grp",
+            "path": "data/Decision/Allowed",
+            "hash": "25cfafb3b7da432277bfa1291df4d58d"
+        },
+        {
+            "name": "ADgrp.grp",
+            "path": "data/Decision/andyd",
+            "hash": "de53187f1c9ba8b1efcb240e7c01a4e9"
+        },
+        {
+            "name": "ADtemp.ped",
+            "path": "data/Decision/andyd",
+            "hash": "cfefbc0fdc988cafcd4a3bf6b13be064"
+        },
+        {
+            "name": "BLANK.ped",
+            "path": "data/Decision",
+            "hash": "4383184825f1613669ca3355e315f1e9"
+        },
+        {
+            "name": "maf5.ped",
+            "path": "data/Decision/chris",
+            "hash": "4f7aa59ad04a276f28211fe3780bd4da"
+        },
+        {
+            "name": "ryder3.ped",
+            "path": "data/Decision/chris",
+            "hash": "da741c471b42859c99b3468bde1dc621"
+        },
+        {
+            "name": "CMblnk.ped",
+            "path": "data/Decision/ChrisM",
+            "hash": "cb2fdafd51c78baed7d2a60470007401"
+        },
+        {
+            "name": "m_std_cm.ped",
+            "path": "data/Decision/ChrisM",
+            "hash": "cc4bce60ef1aac211340bd54ad08b2e1"
+        },
+        {
+            "name": "Cop.ped",
+            "path": "data/Decision",
+            "hash": "e9eec8d526895a406b574a078de613ba"
+        },
+        {
+            "name": "crack1.ped",
+            "path": "data/Decision/Craig",
+            "hash": "81c527d932e4949a3f0dce77caab1b5b"
+        },
+        {
+            "name": "dam_sec.ped",
+            "path": "data/Decision/david",
+            "hash": "36e16f72d8be78bb8628478d5642860d"
+        },
+        {
+            "name": "hei2_sc.ped",
+            "path": "data/Decision/david",
+            "hash": "bf932fd285c05f708171b2e7cf0abe35"
+        },
+        {
+            "name": "FLAT.ped",
+            "path": "data/Decision",
+            "hash": "b38e087d8b77152a984cf8a5164d6e97"
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "data/Decision",
+            "hash": "2ed56525f52ee06e96fe05599bb6fab1"
+        },
+        {
+            "name": "GROVE.ped",
+            "path": "data/Decision",
+            "hash": "38dfb77dc7343d470688014b4eabce27"
+        },
+        {
+            "name": "sci1_is.ped",
+            "path": "data/Decision/Imran",
+            "hash": "fbefb46d14ba4dd939c3781d8ebdc2b8"
+        },
+        {
+            "name": "std1_is.ped",
+            "path": "data/Decision/Imran",
+            "hash": "5ac444f731e87c911d5f6469c98a6684"
+        },
+        {
+            "name": "std2_is.ped",
+            "path": "data/Decision/Imran",
+            "hash": "07b03be54f98eae5e60674f77f9e9b45"
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "data/Decision",
+            "hash": "2f413f8cf94aa074d4d2b35984c1b1fe"
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "data/Decision",
+            "hash": "03ee2db935fe87152b9e3540f1ac509e"
+        },
+        {
+            "name": "m_infrm.ped",
+            "path": "data/Decision",
+            "hash": "f3d578db43e1148e657211cb392b35cd"
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "data/Decision",
+            "hash": "cf979d9712f478d0deb92fbb11c6ff2e"
+        },
+        {
+            "name": "m_std.ped",
+            "path": "data/Decision",
+            "hash": "8296a96da8498d8848a191d47ea75ab5"
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "data/Decision",
+            "hash": "cf979d9712f478d0deb92fbb11c6ff2e"
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "data/Decision",
+            "hash": "cf979d9712f478d0deb92fbb11c6ff2e"
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "data/Decision",
+            "hash": "ecfce8c43aa3e27eaa063543b2c68891"
+        },
+        {
+            "name": "MISSION.ped",
+            "path": "data/Decision",
+            "hash": "4ebc62f3c473d949cecac27f98bb87aa"
+        },
+        {
+            "name": "PedEvent.txt",
+            "path": "data/Decision",
+            "hash": "e4fa5caa1558f2945294a3652e6f0cde"
+        },
+        {
+            "name": "default.dat",
+            "path": "data",
+            "hash": "8e133355396761bd5cd16bf873154b30"
+        },
+        {
+            "name": "default.ide",
+            "path": "data",
+            "hash": "5b6d75bae827e2d88f24f2be66a037bb"
+        },
+        {
+            "name": "fonts.dat",
+            "path": "data",
+            "hash": "0f4b3ab57dd392954e8c942b82d2c5c6"
+        },
+        {
+            "name": "furnitur.dat",
+            "path": "data",
+            "hash": "3199fc8b81a4c5334a497508fe408afd"
+        },
+        {
+            "name": "gridref.dat",
+            "path": "data",
+            "hash": "795a9c013ee683e286768e06e4a5e2d7"
+        },
+        {
+            "name": "gta_quick.dat",
+            "path": "data",
+            "hash": "012841ec691f84de4606ddcbff89e997"
+        },
+        {
+            "name": "gta.dat",
+            "path": "data",
+            "hash": "2d2e4f7f05e2d82b25c88707096d3393"
+        },
+        {
+            "name": "handling.cfg",
+            "path": "data",
+            "hash": "6868accef933f1855ec28ce193a78159"
+        },
+        {
+            "name": "app.ico",
+            "path": "data/Icons",
+            "hash": "4d5f2754d6236d7e8c765def78b0fd68"
+        },
+        {
+            "name": "bin.ico",
+            "path": "data/Icons",
+            "hash": "ca533637e0a1aac05c9b14a98069c224"
+        },
+        {
+            "name": "saicon.ICN",
+            "path": "data/Icons",
+            "hash": "ffcc3a0d32517475bc83f08331169ada"
+        },
+        {
+            "name": "saicon2.ICN",
+            "path": "data/Icons",
+            "hash": "ffcc3a0d32517475bc83f08331169ada"
+        },
+        {
+            "name": "saicon3.ICN",
+            "path": "data/Icons",
+            "hash": "ffcc3a0d32517475bc83f08331169ada"
+        },
+        {
+            "name": "info.zon",
+            "path": "data",
+            "hash": "7df10bed5404a2f7669cdfaa47b8b81b"
+        },
+        {
+            "name": "main.sc",
+            "path": "data",
+            "hash": "0b78b0b080b05d2de9228e0d23196aed"
+        },
+        {
+            "name": "map.zon",
+            "path": "data",
+            "hash": "79d255c7a27bb49b50d680390e908e5a"
+        },
+        {
+            "name": "Audiozon.ipl",
+            "path": "data/maps",
+            "hash": "bc3d7fc5a6927b61c10acda92e7e20c0"
+        },
+        {
+            "name": "countn2.ide",
+            "path": "data/maps/country",
+            "hash": "77fc33d796a96c6d3b680e2f74e6739a"
+        },
+        {
+            "name": "countn2.ipl",
+            "path": "data/maps/country",
+            "hash": "0727df5077b9a6bb7e3e23c1c3990da9"
+        },
+        {
+            "name": "countrye.ide",
+            "path": "data/maps/country",
+            "hash": "d0883386721ef7dfd9322069f2bddd9a"
+        },
+        {
+            "name": "countrye.ipl",
+            "path": "data/maps/country",
+            "hash": "5033cf4354baaad2a521031a1b318df0"
+        },
+        {
+            "name": "countryN.ide",
+            "path": "data/maps/country",
+            "hash": "ad384494c4d2d94683d2c51cef390395"
+        },
+        {
+            "name": "countryN.ipl",
+            "path": "data/maps/country",
+            "hash": "443490bda181e7f87e74fcc7704f2500"
+        },
+        {
+            "name": "countryS.ide",
+            "path": "data/maps/country",
+            "hash": "85792d5a12621e879cc59ed87db82480"
+        },
+        {
+            "name": "countryS.ipl",
+            "path": "data/maps/country",
+            "hash": "8d1bd4b5d337139ff3a953d44fc2b0e3"
+        },
+        {
+            "name": "countryW.ide",
+            "path": "data/maps/country",
+            "hash": "b8d0fdd9f7223ded76f4b5f6700fcb6f"
+        },
+        {
+            "name": "countryw.ipl",
+            "path": "data/maps/country",
+            "hash": "a46e0560ee61446cbb4d531d99dec553"
+        },
+        {
+            "name": "counxref.ide",
+            "path": "data/maps/country",
+            "hash": "661831485cc61d2b99dca07431cf08e4"
+        },
+        {
+            "name": "cull.ipl",
+            "path": "data/maps",
+            "hash": "7d723b80560f956bddb8d97ed66086b8"
+        },
+        {
+            "name": "barriers.ide",
+            "path": "data/maps/generic",
+            "hash": "d22010cd9522b19bf07efbc421872add"
+        },
+        {
+            "name": "dynamic.ide",
+            "path": "data/maps/generic",
+            "hash": "319e6aea03de0c05e075a1f15ed1ce8c"
+        },
+        {
+            "name": "dynamic2.ide",
+            "path": "data/maps/generic",
+            "hash": "46f6e2bcfaed43f10885961408691c4e"
+        },
+        {
+            "name": "multiobj.ide",
+            "path": "data/maps/generic",
+            "hash": "63d672310c0cf0efaa8b96c584dd407a"
+        },
+        {
+            "name": "procobj.ide",
+            "path": "data/maps/generic",
+            "hash": "bf592e31a663405116a68b63e7d2c49f"
+        },
+        {
+            "name": "vegepart.ide",
+            "path": "data/maps/generic",
+            "hash": "b9c84559de97b49ce2036498b3d504d5"
+        },
+        {
+            "name": "gen_int1.ide",
+            "path": "data/maps/interior",
+            "hash": "8cdc36bf580a82bf281c9d3a257d4742"
+        },
+        {
+            "name": "gen_int1.ipl",
+            "path": "data/maps/interior",
+            "hash": "eb13aff288ed3876354a326a22f29d93"
+        },
+        {
+            "name": "gen_int2.ide",
+            "path": "data/maps/interior",
+            "hash": "9b55e0b126ef22f3703b5ccf5bb1b174"
+        },
+        {
+            "name": "gen_int2.ipl",
+            "path": "data/maps/interior",
+            "hash": "5efb82b23a9462cbf4c1d0ba6dbc9fd4"
+        },
+        {
+            "name": "gen_int3.ide",
+            "path": "data/maps/interior",
+            "hash": "5119e846419e50bbc35bd57415d4376e"
+        },
+        {
+            "name": "gen_int3.ipl",
+            "path": "data/maps/interior",
+            "hash": "e14d644ed3a26d5711704f875f2c11e1"
+        },
+        {
+            "name": "gen_int4.ide",
+            "path": "data/maps/interior",
+            "hash": "16c7dba5af8ae61172599f29ed9dd6c0"
+        },
+        {
+            "name": "gen_int4.ipl",
+            "path": "data/maps/interior",
+            "hash": "339028d9c3aac53a8a28212179fced01"
+        },
+        {
+            "name": "gen_int5.ide",
+            "path": "data/maps/interior",
+            "hash": "1f183baa44e0b759c2917c34ac23d3b5"
+        },
+        {
+            "name": "gen_int5.ipl",
+            "path": "data/maps/interior",
+            "hash": "0acd219bca22d7cb8c8b50d738c3275c"
+        },
+        {
+            "name": "gen_intb.ide",
+            "path": "data/maps/interior",
+            "hash": "48a554b28c8045c21b6ed0905a76768f"
+        },
+        {
+            "name": "gen_intb.ipl",
+            "path": "data/maps/interior",
+            "hash": "663b75b0898db03687d5e6edb1d3b7f8"
+        },
+        {
+            "name": "int_cont.ide",
+            "path": "data/maps/interior",
+            "hash": "f811cdbcfd62ad7c8bf4be61c2d89855"
+        },
+        {
+            "name": "int_cont.ipl",
+            "path": "data/maps/interior",
+            "hash": "5331b6ee9cbf7a976f98dc2cce6992e3"
+        },
+        {
+            "name": "int_LA.ide",
+            "path": "data/maps/interior",
+            "hash": "b46f52a4e205996c24791b3e9ad012de"
+        },
+        {
+            "name": "int_LA.ipl",
+            "path": "data/maps/interior",
+            "hash": "2ae3c352e5de6e290dc631da053c5cfc"
+        },
+        {
+            "name": "int_SF.ide",
+            "path": "data/maps/interior",
+            "hash": "cdfdb64d5254a0fc689604d000d0e29c"
+        },
+        {
+            "name": "int_SF.ipl",
+            "path": "data/maps/interior",
+            "hash": "3e8cf0138f81f0c505f245e7bbff8b28"
+        },
+        {
+            "name": "int_veg.ide",
+            "path": "data/maps/interior",
+            "hash": "3ffe6a366fcadba1a2fb3fb8166ceb31"
+        },
+        {
+            "name": "int_veg.ipl",
+            "path": "data/maps/interior",
+            "hash": "8d8030efa3a493324016a395fd180926"
+        },
+        {
+            "name": "propext.ide",
+            "path": "data/maps/interior",
+            "hash": "be0f534711073a19378cd30231b9d094"
+        },
+        {
+            "name": "props.ide",
+            "path": "data/maps/interior",
+            "hash": "b7ca66885d4fc34fe2f2083f8ed5d725"
+        },
+        {
+            "name": "props2.ide",
+            "path": "data/maps/interior",
+            "hash": "043a304b604db2e22d7464bcc36a41ce"
+        },
+        {
+            "name": "savehous.ide",
+            "path": "data/maps/interior",
+            "hash": "19af45eb13708b6b3ed9434a42e6a929"
+        },
+        {
+            "name": "savehous.ipl",
+            "path": "data/maps/interior",
+            "hash": "2e79a68217244d7d99f3790b63fe3267"
+        },
+        {
+            "name": "stadint.ide",
+            "path": "data/maps/interior",
+            "hash": "10953f74890c554dd368ff20bdbeac3d"
+        },
+        {
+            "name": "stadint.ipl",
+            "path": "data/maps/interior",
+            "hash": "242ece3c9c070faf6751e66bfb17531c"
+        },
+        {
+            "name": "LAe.ide",
+            "path": "data/maps/LA",
+            "hash": "6f046fe75467807c612c7f5f0d9bc90f"
+        },
+        {
+            "name": "LAe.ipl",
+            "path": "data/maps/LA",
+            "hash": "fa95160d9826c195e1b9d5128c20b35f"
+        },
+        {
+            "name": "LAe2.ide",
+            "path": "data/maps/LA",
+            "hash": "99d656e3f7b484cf7231c01e42b02c8e"
+        },
+        {
+            "name": "LAe2.ipl",
+            "path": "data/maps/LA",
+            "hash": "ffa2c90e439f5bd7da317c1ad29a9495"
+        },
+        {
+            "name": "LAhills.ide",
+            "path": "data/maps/LA",
+            "hash": "7b9289601c4961f461dd1f2d8b2cc0fa"
+        },
+        {
+            "name": "LAhills.ipl",
+            "path": "data/maps/LA",
+            "hash": "4c30d0186a0c65d5be31f5a45965003a"
+        },
+        {
+            "name": "LAn.ide",
+            "path": "data/maps/LA",
+            "hash": "b24ce30c982c7bc5b8fafc58b97c0dd7"
+        },
+        {
+            "name": "LAn.ipl",
+            "path": "data/maps/LA",
+            "hash": "3f3a9e01ca47388ed62e7bd10527572f"
+        },
+        {
+            "name": "LAn2.ide",
+            "path": "data/maps/LA",
+            "hash": "a0e347f662168d4397e2bc1140ba4b2e"
+        },
+        {
+            "name": "LAn2.ipl",
+            "path": "data/maps/LA",
+            "hash": "dbcd933c5857dab676715b930f3eef1f"
+        },
+        {
+            "name": "LAs.ide",
+            "path": "data/maps/LA",
+            "hash": "f73f76648dc35e2b7eed800bcf699757"
+        },
+        {
+            "name": "LAs.ipl",
+            "path": "data/maps/LA",
+            "hash": "4540df6c3a170ab9b4ff3acce5a9674f"
+        },
+        {
+            "name": "LAs2.ide",
+            "path": "data/maps/LA",
+            "hash": "d6f69e02992be26e5606fe1b3d6c8be5"
+        },
+        {
+            "name": "LAs2.ipl",
+            "path": "data/maps/LA",
+            "hash": "cf63399c3f61e8a93e0e8dc7a09e766b"
+        },
+        {
+            "name": "LAw.ide",
+            "path": "data/maps/LA",
+            "hash": "e3c998eb61ff77a86aeee8ac804d1a7e"
+        },
+        {
+            "name": "LAw.ipl",
+            "path": "data/maps/LA",
+            "hash": "1bfe3e1fabd610dc76ab0b44e26dacc6"
+        },
+        {
+            "name": "LAw2.ide",
+            "path": "data/maps/LA",
+            "hash": "91ce9890027ca87158a5328417689004"
+        },
+        {
+            "name": "LAw2.ipl",
+            "path": "data/maps/LA",
+            "hash": "f220195b871833163f5c04856b03ae8d"
+        },
+        {
+            "name": "LaWn.ide",
+            "path": "data/maps/LA",
+            "hash": "235545b8eb93dcffcb70c1dc2ff6d5fe"
+        },
+        {
+            "name": "LaWn.ipl",
+            "path": "data/maps/LA",
+            "hash": "0720120f5c025757ece1344df0d85a30"
+        },
+        {
+            "name": "LAxref.ide",
+            "path": "data/maps/LA",
+            "hash": "ae01aa97caf5741d240a301ee2770915"
+        },
+        {
+            "name": "leveldes.ide",
+            "path": "data/maps/leveldes",
+            "hash": "521496c7b8e148bf65e15a2eb9cffdba"
+        },
+        {
+            "name": "leveldes.ipl",
+            "path": "data/maps/leveldes",
+            "hash": "4276ccba517ef022c45b39608699a8af"
+        },
+        {
+            "name": "levelmap.ide",
+            "path": "data/maps/leveldes",
+            "hash": "8ea3bf7c907763418a32fd7b42249d96"
+        },
+        {
+            "name": "levelmap.ipl",
+            "path": "data/maps/leveldes",
+            "hash": "4fb15ec9a9bd76e47842e01cdefa2585"
+        },
+        {
+            "name": "levelxre.ide",
+            "path": "data/maps/leveldes",
+            "hash": "4dda3ffcee83f83ca554d85817e52198"
+        },
+        {
+            "name": "seabed.ide",
+            "path": "data/maps/leveldes",
+            "hash": "0779f538229decee62071e53f41d4b93"
+        },
+        {
+            "name": "seabed.ipl",
+            "path": "data/maps/leveldes",
+            "hash": "fbedb38d8860a71d63d30e4c0f458c86"
+        },
+        {
+            "name": "occlu.ipl",
+            "path": "data/maps",
+            "hash": "fbe5264b558576cff738291bc17a9c51"
+        },
+        {
+            "name": "occluint.ipl",
+            "path": "data/maps",
+            "hash": "e89a5ae5ee074086862664b50f6881f5"
+        },
+        {
+            "name": "occluLA.ipl",
+            "path": "data/maps",
+            "hash": "a355e96c0102c3187fe75da90572b3f2"
+        },
+        {
+            "name": "occlusf.ipl",
+            "path": "data/maps",
+            "hash": "9ac2fb7ddddfe7f71a4faad8f71a7b98"
+        },
+        {
+            "name": "occluveg.ipl",
+            "path": "data/maps",
+            "hash": "394dc4170c928d4227f9c0e185d51261"
+        },
+        {
+            "name": "paths.ipl",
+            "path": "data/maps",
+            "hash": "37426c7d5218aa13aaec2f582aaaabc4"
+        },
+        {
+            "name": "paths2.ipl",
+            "path": "data/maps",
+            "hash": "b38219724ec5eaa1dba1df4331389509"
+        },
+        {
+            "name": "paths3.ipl",
+            "path": "data/maps",
+            "hash": "1f5f7a824575552057fe7001c54c51a9"
+        },
+        {
+            "name": "paths4.ipl",
+            "path": "data/maps",
+            "hash": "73c948a8d373623524b4fca8a2b9c25a"
+        },
+        {
+            "name": "paths5.ipl",
+            "path": "data/maps",
+            "hash": "8f3d100baff8ee2088d0b74474175250"
+        },
+        {
+            "name": "SFe.ide",
+            "path": "data/maps/SF",
+            "hash": "a45f71b74a0dc25d83892dc4ba5fac3c"
+        },
+        {
+            "name": "SFe.ipl",
+            "path": "data/maps/SF",
+            "hash": "da55b24ac305b2779f46cc1509f444d8"
+        },
+        {
+            "name": "SFn.ide",
+            "path": "data/maps/SF",
+            "hash": "27566b5a6dce82513cfdcf65c82ca958"
+        },
+        {
+            "name": "SFn.ipl",
+            "path": "data/maps/SF",
+            "hash": "a2133c436d46396b4e1511a33bcb8870"
+        },
+        {
+            "name": "SFs.ide",
+            "path": "data/maps/SF",
+            "hash": "8b6341f47887183fbe475c14722d8e9f"
+        },
+        {
+            "name": "SFs.ipl",
+            "path": "data/maps/SF",
+            "hash": "518077ea0974332c8352eb9af931d197"
+        },
+        {
+            "name": "SFSe.ide",
+            "path": "data/maps/SF",
+            "hash": "a245de4449fe41d4ed7440b80c193d06"
+        },
+        {
+            "name": "SFSe.ipl",
+            "path": "data/maps/SF",
+            "hash": "b275b70372a6d91643e3f585325f8ddc"
+        },
+        {
+            "name": "SFw.ide",
+            "path": "data/maps/SF",
+            "hash": "4103fe4fffa18c4845027fb3d7929296"
+        },
+        {
+            "name": "SFw.ipl",
+            "path": "data/maps/SF",
+            "hash": "e435f3d83ef4abcc4ce56c41767601ee"
+        },
+        {
+            "name": "SFxref.ide",
+            "path": "data/maps/SF",
+            "hash": "23b00cc73b9564f739730c61a232353d"
+        },
+        {
+            "name": "tunnels.ipl",
+            "path": "data/maps",
+            "hash": "1438622c076f6122ff6cdd03241b638c"
+        },
+        {
+            "name": "txd.ide",
+            "path": "data/maps",
+            "hash": "46f2df900d7d79a68ac3eac499cb6f35"
+        },
+        {
+            "name": "vegasE.ide",
+            "path": "data/maps/vegas",
+            "hash": "eea176558132ff026e2e5dac68ff9e5a"
+        },
+        {
+            "name": "vegasE.ipl",
+            "path": "data/maps/vegas",
+            "hash": "ea279d9a9d6e3addb981b5186da91424"
+        },
+        {
+            "name": "VegasN.ide",
+            "path": "data/maps/vegas",
+            "hash": "6a35f16ac1b76f151be42c3860c81ffd"
+        },
+        {
+            "name": "vegasN.ipl",
+            "path": "data/maps/vegas",
+            "hash": "e6b6cc52ad19a5e93a45d659019f7b41"
+        },
+        {
+            "name": "VegasS.ide",
+            "path": "data/maps/vegas",
+            "hash": "ed0cca34a8fdc556a7ca835ee0923b58"
+        },
+        {
+            "name": "vegasS.ipl",
+            "path": "data/maps/vegas",
+            "hash": "ce4cb524d5bee74bab77029e5541b1ae"
+        },
+        {
+            "name": "VegasW.ide",
+            "path": "data/maps/vegas",
+            "hash": "593313a65eb9f8905c61bd02296e4468"
+        },
+        {
+            "name": "vegasW.ipl",
+            "path": "data/maps/vegas",
+            "hash": "43989ba645119a9b287fb0e3782245e7"
+        },
+        {
+            "name": "vegaxref.ide",
+            "path": "data/maps/vegas",
+            "hash": "61c9cd72a43ca6f34788c4bde736431e"
+        },
+        {
+            "name": "vegaxref.ipl",
+            "path": "data/maps/vegas",
+            "hash": "789520fd41a60f0067c802c6f00d021b"
+        },
+        {
+            "name": "veh_mods.ide",
+            "path": "data/maps/veh_mods",
+            "hash": "e5f05eea1d6fb145bfa0d5f9950ddd54"
+        },
+        {
+            "name": "melee.dat",
+            "path": "data",
+            "hash": "b2f05657980e4a693f8ff5eadcbad8f8"
+        },
+        {
+            "name": "numplate.dat",
+            "path": "data",
+            "hash": "f152559cdaba5573e9f8aa78bf1d0fc2"
+        },
+        {
+            "name": "object.dat",
+            "path": "data",
+            "hash": "46a5e7dff90078842e24d9de5e92cc3e"
+        },
+        {
+            "name": "carrec.img",
+            "path": "data/Paths",
+            "hash": "19a41b88df742a8583eb0d1222791552"
+        },
+        {
+            "name": "NODES0.DAT",
+            "path": "data/Paths",
+            "hash": "b65284518b3bab328530eb0f2b969d86"
+        },
+        {
+            "name": "NODES1.DAT",
+            "path": "data/Paths",
+            "hash": "167712a4ec91fd811670b120ba13ec33"
+        },
+        {
+            "name": "NODES10.DAT",
+            "path": "data/Paths",
+            "hash": "da13b3a0422f2866cb3cab02a93296fe"
+        },
+        {
+            "name": "NODES11.DAT",
+            "path": "data/Paths",
+            "hash": "64fe7f8a080d130a864139231afe909b"
+        },
+        {
+            "name": "NODES12.DAT",
+            "path": "data/Paths",
+            "hash": "65b0308c682d35dc2248d06d7b2f82a0"
+        },
+        {
+            "name": "NODES13.DAT",
+            "path": "data/Paths",
+            "hash": "1c93aefecb76c9debaa1108768968e15"
+        },
+        {
+            "name": "NODES14.DAT",
+            "path": "data/Paths",
+            "hash": "2f10afdf126cbfc9783d0fd8c02c92da"
+        },
+        {
+            "name": "NODES15.DAT",
+            "path": "data/Paths",
+            "hash": "f909cd6bc5c0c02a8d08bb32d552e06d"
+        },
+        {
+            "name": "NODES16.DAT",
+            "path": "data/Paths",
+            "hash": "dd279df9b16789efd9344634a8184e3a"
+        },
+        {
+            "name": "NODES17.DAT",
+            "path": "data/Paths",
+            "hash": "60b973155b02b795edbca8cf2f48cf07"
+        },
+        {
+            "name": "NODES18.DAT",
+            "path": "data/Paths",
+            "hash": "24a912273c03a722d9b29059e1abf61e"
+        },
+        {
+            "name": "NODES19.DAT",
+            "path": "data/Paths",
+            "hash": "dd23c23e88ad4bd12756344956188bba"
+        },
+        {
+            "name": "NODES2.DAT",
+            "path": "data/Paths",
+            "hash": "64db455aa43312b28f34fbd09db4f55d"
+        },
+        {
+            "name": "NODES20.DAT",
+            "path": "data/Paths",
+            "hash": "cd58e71192e4d7ad1c67bfa101a86d16"
+        },
+        {
+            "name": "NODES21.DAT",
+            "path": "data/Paths",
+            "hash": "bde0c1f2af9f0aec26f2a67bef413a89"
+        },
+        {
+            "name": "NODES22.DAT",
+            "path": "data/Paths",
+            "hash": "d93eb526f700063dfd8ddf45a7c2231b"
+        },
+        {
+            "name": "NODES23.DAT",
+            "path": "data/Paths",
+            "hash": "2e1814398fd1371bb4670c69d68dfd02"
+        },
+        {
+            "name": "NODES24.DAT",
+            "path": "data/Paths",
+            "hash": "d4c1eebeeb2f1acf9c6ba8d56db3390a"
+        },
+        {
+            "name": "NODES25.DAT",
+            "path": "data/Paths",
+            "hash": "bfdcea53f8c7cd13e0103d30ded4fd40"
+        },
+        {
+            "name": "NODES26.DAT",
+            "path": "data/Paths",
+            "hash": "73fad39d504a6970bf0a0a41d8e142b3"
+        },
+        {
+            "name": "NODES27.DAT",
+            "path": "data/Paths",
+            "hash": "db9bd596ff327e2a7198c3c3765b9e8a"
+        },
+        {
+            "name": "NODES28.DAT",
+            "path": "data/Paths",
+            "hash": "7f9d7a2adee16653b0f9d55b52cb50f1"
+        },
+        {
+            "name": "NODES29.DAT",
+            "path": "data/Paths",
+            "hash": "d7b0c519cbd553924864d7791d85061e"
+        },
+        {
+            "name": "NODES3.DAT",
+            "path": "data/Paths",
+            "hash": "8c628e0cc44cf743d81a9ad27755a94a"
+        },
+        {
+            "name": "NODES30.DAT",
+            "path": "data/Paths",
+            "hash": "02725b9160cc15e1f02663541ecec7c6"
+        },
+        {
+            "name": "NODES31.DAT",
+            "path": "data/Paths",
+            "hash": "e5d4b0d863f2f5e8b10a2f16a457919f"
+        },
+        {
+            "name": "NODES32.DAT",
+            "path": "data/Paths",
+            "hash": "53497bbc84888a528124b05691bd7903"
+        },
+        {
+            "name": "NODES33.DAT",
+            "path": "data/Paths",
+            "hash": "ad1a010dca11b38a3f74ffc981486ac7"
+        },
+        {
+            "name": "NODES34.DAT",
+            "path": "data/Paths",
+            "hash": "e466fbdab93e2da7d770297e3142c158"
+        },
+        {
+            "name": "NODES35.DAT",
+            "path": "data/Paths",
+            "hash": "06103a5194cd3f80a627769717315147"
+        },
+        {
+            "name": "NODES36.DAT",
+            "path": "data/Paths",
+            "hash": "66a66969ff328780a55e07a09fe64c34"
+        },
+        {
+            "name": "NODES37.DAT",
+            "path": "data/Paths",
+            "hash": "b861531f7bb7055e4e6e93b4c6aa6b4b"
+        },
+        {
+            "name": "NODES38.DAT",
+            "path": "data/Paths",
+            "hash": "3295bbe0b6c3f2b64647355751765f1b"
+        },
+        {
+            "name": "NODES39.DAT",
+            "path": "data/Paths",
+            "hash": "fec2948d8e95c4a23be317525aab6957"
+        },
+        {
+            "name": "NODES4.DAT",
+            "path": "data/Paths",
+            "hash": "96efd245326aba02a8d01591c2e79fef"
+        },
+        {
+            "name": "NODES40.DAT",
+            "path": "data/Paths",
+            "hash": "54c2f1b1e04f5331155381f7c4ee3fd8"
+        },
+        {
+            "name": "NODES41.DAT",
+            "path": "data/Paths",
+            "hash": "f9b517cebe4494f8e835a3b687b06fb1"
+        },
+        {
+            "name": "NODES42.DAT",
+            "path": "data/Paths",
+            "hash": "082018bc5f7333f1fde17195aff579bc"
+        },
+        {
+            "name": "NODES43.DAT",
+            "path": "data/Paths",
+            "hash": "ee21132eccedda259d49daead3c53e8a"
+        },
+        {
+            "name": "NODES44.DAT",
+            "path": "data/Paths",
+            "hash": "78c1fb3169a5f28968bfdfd988f7025a"
+        },
+        {
+            "name": "NODES45.DAT",
+            "path": "data/Paths",
+            "hash": "ffd41ddb6e0f2d92a0fab07940dc3e1d"
+        },
+        {
+            "name": "NODES46.DAT",
+            "path": "data/Paths",
+            "hash": "20a67fef94f022e17ec92c3da34a0f51"
+        },
+        {
+            "name": "NODES47.DAT",
+            "path": "data/Paths",
+            "hash": "653ffffd5e3471963d96acaf385ae01c"
+        },
+        {
+            "name": "NODES48.DAT",
+            "path": "data/Paths",
+            "hash": "1d6a286a72226087de60ab004bf119f7"
+        },
+        {
+            "name": "NODES49.DAT",
+            "path": "data/Paths",
+            "hash": "575611902ad1d4915cd6f840f6c2e2e5"
+        },
+        {
+            "name": "NODES5.DAT",
+            "path": "data/Paths",
+            "hash": "26cdfc8dad2446f97089508553eb481a"
+        },
+        {
+            "name": "NODES50.DAT",
+            "path": "data/Paths",
+            "hash": "c48ed895638f1bfc741feaf92a6d03bb"
+        },
+        {
+            "name": "NODES51.DAT",
+            "path": "data/Paths",
+            "hash": "f0db1fb94f8c6e0471a3acdd9cf56d13"
+        },
+        {
+            "name": "NODES52.DAT",
+            "path": "data/Paths",
+            "hash": "e2ee621c10fbdaa7023f3cd96b214a15"
+        },
+        {
+            "name": "NODES53.DAT",
+            "path": "data/Paths",
+            "hash": "05bdf6c8a436620f42099cab1aeeac2c"
+        },
+        {
+            "name": "NODES54.DAT",
+            "path": "data/Paths",
+            "hash": "ba6795f4c40774a606a13750cdb8b197"
+        },
+        {
+            "name": "NODES55.DAT",
+            "path": "data/Paths",
+            "hash": "3f77ff5560909b8fc8aa81beea0e9d47"
+        },
+        {
+            "name": "NODES56.DAT",
+            "path": "data/Paths",
+            "hash": "86d5c93305910202e3492b6f53fcc211"
+        },
+        {
+            "name": "NODES57.DAT",
+            "path": "data/Paths",
+            "hash": "75a4f69d23923d217153f20f3c1e5818"
+        },
+        {
+            "name": "NODES58.DAT",
+            "path": "data/Paths",
+            "hash": "229d13a5928502a495a36a4726141b12"
+        },
+        {
+            "name": "NODES59.DAT",
+            "path": "data/Paths",
+            "hash": "ae72839f7689826ce0249f4332a70ea5"
+        },
+        {
+            "name": "NODES6.DAT",
+            "path": "data/Paths",
+            "hash": "1fba066612f8df915d1035fd7d1c4d43"
+        },
+        {
+            "name": "NODES60.DAT",
+            "path": "data/Paths",
+            "hash": "8eddde8839d3c78bd2b3c7c5bf245e53"
+        },
+        {
+            "name": "NODES61.DAT",
+            "path": "data/Paths",
+            "hash": "3bbb3336994f956c3b918a327ce75a02"
+        },
+        {
+            "name": "NODES62.DAT",
+            "path": "data/Paths",
+            "hash": "13c113c73d27eb9f6e3ba948155fc379"
+        },
+        {
+            "name": "NODES63.DAT",
+            "path": "data/Paths",
+            "hash": "d528b8e68486b7219bd781a9ab73a4ad"
+        },
+        {
+            "name": "NODES7.DAT",
+            "path": "data/Paths",
+            "hash": "d5ad2df76b43b7a0ff47bbca7d00a718"
+        },
+        {
+            "name": "NODES8.DAT",
+            "path": "data/Paths",
+            "hash": "aad80180f62367553cea7d74d8a2e268"
+        },
+        {
+            "name": "NODES9.DAT",
+            "path": "data/Paths",
+            "hash": "3426f2796fd22056238fdccde13817ca"
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "path": "data/Paths",
+            "hash": "2dbd1fa4fc98e4cd0d84e647b3a12fa6"
+        },
+        {
+            "name": "spath0.dat",
+            "path": "data/Paths",
+            "hash": "56d9d1bc00e836d4fe26cc4069f4ee3e"
+        },
+        {
+            "name": "tracks.dat",
+            "path": "data/Paths",
+            "hash": "16b7c65078f262893e18a5d626bbedbd"
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "data/Paths",
+            "hash": "f5c1f87d1ae814a12a2aeb51e4ef27e0"
+        },
+        {
+            "name": "tracks3.dat",
+            "path": "data/Paths",
+            "hash": "fc3e3e450c92a0cdcdf6d5bf26dda212"
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "data/Paths",
+            "hash": "10066144ef14c40fff4d5bd3cc147360"
+        },
+        {
+            "name": "train.dat",
+            "path": "data/Paths",
+            "hash": "e2ecc58a359a90ea0624c5210d2a8195"
+        },
+        {
+            "name": "train2.dat",
+            "path": "data/Paths",
+            "hash": "a7f3dec85faa8048d3422bbe5270d265"
+        },
+        {
+            "name": "ped.dat",
+            "path": "data",
+            "hash": "67d960dde13228d4818e0f144adafe4e"
+        },
+        {
+            "name": "pedgrp.dat",
+            "path": "data",
+            "hash": "fa1731066423ba0c584e757eda946f15"
+        },
+        {
+            "name": "peds.ide",
+            "path": "data",
+            "hash": "f7dea69fa6ab973479b9ef0cf05d3d98"
+        },
+        {
+            "name": "pedstats.dat",
+            "path": "data",
+            "hash": "d722c90c92f3ad5c1b531596769f61cd"
+        },
+        {
+            "name": "plants.dat",
+            "path": "data",
+            "hash": "a2713338dbbd55898a4195e4464c6b06"
+        },
+        {
+            "name": "polydensity.dat",
+            "path": "data",
+            "hash": "48676fe82312f8f4a1bdf65c76719425"
+        },
+        {
+            "name": "popcycle.dat",
+            "path": "data",
+            "hash": "a43f90361d1034c819a602171d8d66cb"
+        },
+        {
+            "name": "procobj.dat",
+            "path": "data",
+            "hash": "7229fa03d65f135bd569c3692d67c4b3"
+        },
+        {
+            "name": "main.scm",
+            "path": "data/script",
+            "hash": "60ad23e272c3b0aa937053fe3006be93"
+        },
+        {
+            "name": "script.img",
+            "path": "data/script",
+            "hash": "9598b82cf1e5ae7a8558057a01f6f2ce"
+        },
+        {
+            "name": "shopping.dat",
+            "path": "data",
+            "hash": "c1086eb6c0bfa36845f2026b68519f14"
+        },
+        {
+            "name": "statdisp.dat",
+            "path": "data",
+            "hash": "2ee5d9c1abb281f26f8cd00e9eefd65e"
+        },
+        {
+            "name": "surface.dat",
+            "path": "data",
+            "hash": "9eb4e4e474abd5da2f3961a5ef549f9e"
+        },
+        {
+            "name": "surfaud.dat",
+            "path": "data",
+            "hash": "c32c586e8ba35742e356e6525619f7c3"
+        },
+        {
+            "name": "surfinfo.dat",
+            "path": "data",
+            "hash": "605dd0beabccc797ce94a51a3e4a09eb"
+        },
+        {
+            "name": "timecyc.dat",
+            "path": "data",
+            "hash": "d66a121bc8f17a5b69e34b841744956c"
+        },
+        {
+            "name": "timecycp.dat",
+            "path": "data",
+            "hash": "c91ce6b9f69578dc0fcd890f6147224c"
+        },
+        {
+            "name": "txdcut.ide",
+            "path": "data",
+            "hash": "e3c231039048a30680b8f13fb51cc4ac"
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "data",
+            "hash": "bdc3a0fced2402c5bc61585714457d4b"
+        },
+        {
+            "name": "water.dat",
+            "path": "data",
+            "hash": "690400ecc92169d9eaddaaa948903efb"
+        },
+        {
+            "name": "water1.dat",
+            "path": "data",
+            "hash": "16fe5a3e8c57d02eb62a44a96d8b9d39"
+        },
+        {
+            "name": "weapon.dat",
+            "path": "data",
+            "hash": "0a9bb49003680364f9f9768e9bcea982"
+        },
+        {
+            "name": "dxwebsetup.exe",
+            "path": "",
+            "hash": "bcbb7c0cd9696068988953990ec5bd11"
+        },
+        {
+            "name": "eax.dll",
+            "path": "",
+            "hash": "309d860fc8137e5fe9e7056c33b4b8be"
+        },
+        {
+            "name": "GTA  PC MANUAL RUS.pdf",
+            "path": "",
+            "hash": "e1e05a94fbaa26c1dc7c8f49565ec41a"
+        },
+        {
+            "name": "GTA_SA_PC_MAP_RU.pdf",
+            "path": "",
+            "hash": "905e1adadea153be49ec1076c6024560"
+        },
+        {
+            "name": "gta_sa.exe",
+            "path": "",
+            "hash": "170b3a9108687b26da2d8901c6948a18"
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "path": "",
+            "hash": "59cbae9fd42a9a4eea90af7f81e5e734"
+        },
+        {
+            "name": "peds.col",
+            "path": "models/coll",
+            "hash": "74288cbdd843c3cfb77b036a5614ae9d"
+        },
+        {
+            "name": "vehicles.col",
+            "path": "models/coll",
+            "hash": "c84c1a1b67d5fad3df75dd8d45fc576b"
+        },
+        {
+            "name": "weapons.col",
+            "path": "models/coll",
+            "hash": "510e74e32b323eee54dd7a243b073808"
+        },
+        {
+            "name": "cutscene.img",
+            "path": "models",
+            "hash": "6b1047ae046e2697cec326610ec07a1a"
+        },
+        {
+            "name": "effects.fxp",
+            "path": "models",
+            "hash": "6143a72e8ff2974db14f65df65d952b0"
+        },
+        {
+            "name": "effectsPC.txd",
+            "path": "models",
+            "hash": "0802650dfea37ed516e1c0f12ccb77d7"
+        },
+        {
+            "name": "fonts.txd",
+            "path": "models",
+            "hash": "3d4e561cf9020ab1af224a16a92d384f"
+        },
+        {
+            "name": "fronten_pc.txd",
+            "path": "models",
+            "hash": "aa7ba893d292c6bf2aa5e16e0e6c8c1b"
+        },
+        {
+            "name": "fronten1.txd",
+            "path": "models",
+            "hash": "7414ee5a8fa7a906f1c49b8897805e07"
+        },
+        {
+            "name": "fronten2.txd",
+            "path": "models",
+            "hash": "386dae2e9f205ed2c75c4499503466f7"
+        },
+        {
+            "name": "fronten3.txd",
+            "path": "models",
+            "hash": "af42eee4d2d71a83039eaee3f602be9a"
+        },
+        {
+            "name": "air_vlo.DFF",
+            "path": "models/generic",
+            "hash": "c43d23e5b11f4c3b152a250898e664a3"
+        },
+        {
+            "name": "arrow.DFF",
+            "path": "models/generic",
+            "hash": "8e0b690f080ea4ad45b11e56e2bd51af"
+        },
+        {
+            "name": "hoop.dff",
+            "path": "models/generic",
+            "hash": "e3026d63c0904f60be5a777159954146"
+        },
+        {
+            "name": "vehicle.txd",
+            "path": "models/generic",
+            "hash": "cf9bfea2ea8e9045fe554763bd41ab85"
+        },
+        {
+            "name": "wheels.DFF",
+            "path": "models/generic",
+            "hash": "ca1b56627abf153dbb1153900b482ea0"
+        },
+        {
+            "name": "wheels.txd",
+            "path": "models/generic",
+            "hash": "c55fc1a89a9cfdc63e3dd02ae0b82607"
+        },
+        {
+            "name": "zonecylb.DFF",
+            "path": "models/generic",
+            "hash": "c22311afde99c0f7984211ccc0f958b0"
+        },
+        {
+            "name": "grass0_1.dff",
+            "path": "models/grass",
+            "hash": "be8763269599e91dcc596f13056d58dc"
+        },
+        {
+            "name": "grass0_2.dff",
+            "path": "models/grass",
+            "hash": "fe3b316979b03509278268b7479614f1"
+        },
+        {
+            "name": "grass0_3.dff",
+            "path": "models/grass",
+            "hash": "51d72ecadea1da6b5c4e1272b77d79fb"
+        },
+        {
+            "name": "grass0_4.dff",
+            "path": "models/grass",
+            "hash": "07a37a4e069aafb2eeeab56125ee21ed"
+        },
+        {
+            "name": "grass1_1.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass1_2.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass1_3.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass1_4.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass2_1.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass2_2.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass2_3.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass2_4.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass3_1.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass3_2.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass3_3.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "grass3_4.dff",
+            "path": "models/grass",
+            "hash": "84e3cdac0050a7ea9a87395728b99ac3"
+        },
+        {
+            "name": "plant1.dff",
+            "path": "models/grass",
+            "hash": "e88432f1e188a4cfc6959ae645a4329f"
+        },
+        {
+            "name": "plant1.txd",
+            "path": "models/grass",
+            "hash": "15552e439a8daf86a6da252ba575381f"
+        },
+        {
+            "name": "gta_int.img",
+            "path": "models",
+            "hash": "dbe7e372d55914c39eb1d565e8707c8c"
+        },
+        {
+            "name": "gta3.img",
+            "path": "models",
+            "hash": "9282e0df8d7eee3c4a49b44758dd694d"
+        },
+        {
+            "name": "hud.txd",
+            "path": "models",
+            "hash": "18d2abd58e28c06b721197a0458d4405"
+        },
+        {
+            "name": "misc.txd",
+            "path": "models",
+            "hash": "5ba1aa955cf55240b6dd6e0a25d28b57"
+        },
+        {
+            "name": "particle.txd",
+            "path": "models",
+            "hash": "585f47abb0a6ea6c17d5a7638a1a07d9"
+        },
+        {
+            "name": "pcbtns.txd",
+            "path": "models",
+            "hash": "9ff145d936961fd37915c6ae186f6775"
+        },
+        {
+            "name": "player.img",
+            "path": "models",
+            "hash": "b06073200f58e220dcd5915ea646b468"
+        },
+        {
+            "name": "intro1.txd",
+            "path": "models/txd",
+            "hash": "979cd51b6fab476324e683d954d95384"
+        },
+        {
+            "name": "intro2.txd",
+            "path": "models/txd",
+            "hash": "781e430c5b84349664fba51975b0fc71"
+        },
+        {
+            "name": "INTRO3.TXD",
+            "path": "models/txd",
+            "hash": "0af76785f962354f27a7707a3a96af08"
+        },
+        {
+            "name": "intro4.txd",
+            "path": "models/txd",
+            "hash": "eeacc47cef37e8793fd7be8b94eb195f"
+        },
+        {
+            "name": "LD_BEAT.txd",
+            "path": "models/txd",
+            "hash": "a24adf48b3470d78e8e8a2931494429c"
+        },
+        {
+            "name": "LD_BUM.txd",
+            "path": "models/txd",
+            "hash": "6d2e90394334626fe6d505753dc01b29"
+        },
+        {
+            "name": "LD_CARD.txd",
+            "path": "models/txd",
+            "hash": "d71de9903f5deddb4c2a659a327a24bb"
+        },
+        {
+            "name": "LD_CHAT.txd",
+            "path": "models/txd",
+            "hash": "8da7a3ed7368509c6635349a714b441a"
+        },
+        {
+            "name": "LD_DRV.txd",
+            "path": "models/txd",
+            "hash": "e6fd533942139b5c8b27f9ac3943a463"
+        },
+        {
+            "name": "LD_DUAL.txd",
+            "path": "models/txd",
+            "hash": "7d792a8ead9c39dee548032a1aba3a16"
+        },
+        {
+            "name": "ld_grav.txd",
+            "path": "models/txd",
+            "hash": "b520bcc4776ea47f5c28a5472d47f46e"
+        },
+        {
+            "name": "LD_NONE.txd",
+            "path": "models/txd",
+            "hash": "f1aeb67f9608a5ca4ba03356f9f86036"
+        },
+        {
+            "name": "LD_OTB.txd",
+            "path": "models/txd",
+            "hash": "eeffae83faf0a380150914d14f71a8f4"
+        },
+        {
+            "name": "LD_OTB2.txd",
+            "path": "models/txd",
+            "hash": "ed15b78cb33af5f52bd3254fa56ed524"
+        },
+        {
+            "name": "LD_PLAN.txd",
+            "path": "models/txd",
+            "hash": "30c79c8f7bc058e2b6f418da631a01a4"
+        },
+        {
+            "name": "LD_POKE.txd",
+            "path": "models/txd",
+            "hash": "746b91206836e4682cf1c45474a574ca"
+        },
+        {
+            "name": "LD_POOL.txd",
+            "path": "models/txd",
+            "hash": "7f0e00597aeeaf5f28a9c428f17dc8db"
+        },
+        {
+            "name": "LD_RACE.txd",
+            "path": "models/txd",
+            "hash": "442018c9effb38a9c31756fe7a02a7ba"
+        },
+        {
+            "name": "LD_RCE1.txd",
+            "path": "models/txd",
+            "hash": "6974d8c0bcc3401c4383923d7a1a1b31"
+        },
+        {
+            "name": "LD_RCE2.txd",
+            "path": "models/txd",
+            "hash": "01a9050c733b718f321c035c9150ce60"
+        },
+        {
+            "name": "LD_RCE3.txd",
+            "path": "models/txd",
+            "hash": "b7501b94264618eff233fe08e1dc48c8"
+        },
+        {
+            "name": "LD_RCE4.txd",
+            "path": "models/txd",
+            "hash": "08515462022d78d73bdfbe28fd222ada"
+        },
+        {
+            "name": "LD_RCE5.txd",
+            "path": "models/txd",
+            "hash": "385fcc26b2f99930ecc1b8f74a423f7e"
+        },
+        {
+            "name": "LD_ROUL.txd",
+            "path": "models/txd",
+            "hash": "ed57a860ee4c23f0cab4f26fa2e4a161"
+        },
+        {
+            "name": "ld_shtr.txd",
+            "path": "models/txd",
+            "hash": "6d1606d92cda98bc165671ac81dd7f3b"
+        },
+        {
+            "name": "LD_SLOT.txd",
+            "path": "models/txd",
+            "hash": "1de99059110d71a8536b6b65e1460819"
+        },
+        {
+            "name": "LD_SPAC.txd",
+            "path": "models/txd",
+            "hash": "e0860f912a2c08dbdcc58259d9a10f29"
+        },
+        {
+            "name": "LD_TATT.txd",
+            "path": "models/txd",
+            "hash": "57bf8b7afa0ed6e8d67d006128f8f621"
+        },
+        {
+            "name": "load0uk.txd",
+            "path": "models/txd",
+            "hash": "4a19104217c2a03b6174bd1967fd32dd"
+        },
+        {
+            "name": "loadsc0.txd",
+            "path": "models/txd",
+            "hash": "a3fd64bfcab845c937e22c6470a0e37a"
+        },
+        {
+            "name": "loadsc1.txd",
+            "path": "models/txd",
+            "hash": "6cdd429acbc9517eced2c750b11d5741"
+        },
+        {
+            "name": "loadsc10.txd",
+            "path": "models/txd",
+            "hash": "c1e36ceb3e1c17d95dfd89c5929b337e"
+        },
+        {
+            "name": "loadsc11.txd",
+            "path": "models/txd",
+            "hash": "68a2faca6263692e4fac6c3ca43b93ba"
+        },
+        {
+            "name": "loadsc12.txd",
+            "path": "models/txd",
+            "hash": "f33defb5e41d3624ed64a07007fae354"
+        },
+        {
+            "name": "loadsc13.txd",
+            "path": "models/txd",
+            "hash": "03391f19da3e1b258877c1c501138bd2"
+        },
+        {
+            "name": "loadsc14.txd",
+            "path": "models/txd",
+            "hash": "9ee5c939749fdd302936017f4f44a424"
+        },
+        {
+            "name": "loadsc2.txd",
+            "path": "models/txd",
+            "hash": "46376c00d3b65154ab636fa6146779b8"
+        },
+        {
+            "name": "loadsc3.txd",
+            "path": "models/txd",
+            "hash": "4f000737e6f21636060340956e3dc342"
+        },
+        {
+            "name": "loadsc4.txd",
+            "path": "models/txd",
+            "hash": "42980fee6470fae884692bf22655b95f"
+        },
+        {
+            "name": "loadsc5.txd",
+            "path": "models/txd",
+            "hash": "821838b60953b40030569d63485087ca"
+        },
+        {
+            "name": "loadsc6.txd",
+            "path": "models/txd",
+            "hash": "c12a3d6cb3749f7f604e952d30580530"
+        },
+        {
+            "name": "loadsc7.txd",
+            "path": "models/txd",
+            "hash": "c0e771d9623a4bd9181d76efad7c63a3"
+        },
+        {
+            "name": "loadsc8.txd",
+            "path": "models/txd",
+            "hash": "f52b98ff04e0b75b334c74b10faca0ef"
+        },
+        {
+            "name": "loadsc9.txd",
+            "path": "models/txd",
+            "hash": "b18538e772479ba326a8119087c35544"
+        },
+        {
+            "name": "LOADSCS.txd",
+            "path": "models/txd",
+            "hash": "22016ed7dbc404e6ede9de32d604434b"
+        },
+        {
+            "name": "LOADSUK.txd",
+            "path": "models/txd",
+            "hash": "ae2d6da4010e858d435221d8eb622cda"
+        },
+        {
+            "name": "outro.txd",
+            "path": "models/txd",
+            "hash": "bf6531f0f555d96c33a744d90bee2da0"
+        },
+        {
+            "name": "splash1.txd",
+            "path": "models/txd",
+            "hash": "3fa129dedbe400ea3fcbcf5e422e8717"
+        },
+        {
+            "name": "splash2.txd",
+            "path": "models/txd",
+            "hash": "3e341a50f3680525f86a170e50b0734c"
+        },
+        {
+            "name": "splash3.txd",
+            "path": "models/txd",
+            "hash": "112bfb3f6776df59a09f5392ca12b0f9"
+        },
+        {
+            "name": "mouse.png",
+            "path": "",
+            "hash": "337ddcbe53be7dd8032fb8f6fe1b607b"
+        },
+        {
+            "name": "GTAtitles.mpg",
+            "path": "movies",
+            "hash": "497d6d1447c62e57c55db49444876fac"
+        },
+        {
+            "name": "Logo.mpg",
+            "path": "movies",
+            "hash": "fe0ddfa024d1296597890f27d24ae335"
+        },
+        {
+            "name": "ogg.dll",
+            "path": "",
+            "hash": "0602f672ba595716e64ec4040e6de376"
+        },
+        {
+            "name": "openal.dll",
+            "path": "",
+            "hash": "fd76ccfd9c41af1025eaf1e394930167"
+        },
+        {
+            "name": "rcon.exe",
+            "path": "",
+            "hash": "3f4821cda1de6d7d10654e5537b4df6e"
+        },
+        {
+            "name": "Readme.txt",
+            "path": "ReadMe",
+            "hash": "809dcd55ee8b0c77292d65601a04aee6"
+        },
+        {
+            "name": "samp_debug.exe",
+            "path": "",
+            "hash": "2c00c60a5511c3a41a70296fd1879067"
+        },
+        {
+            "name": "samp-license.txt",
+            "path": "",
+            "hash": "133e459c191bb81626fea8b403674196"
+        },
+        {
+            "name": "samp.dll",
+            "path": "",
+            "hash": "1d22eaa2605717ddf215f68e861de378"
+        },
+        {
+            "name": "samp.exe",
+            "path": "",
+            "hash": "c1aedd9f2dac8a7f79ed40d264b4df6d"
+        },
+        {
+            "name": "samp.saa",
+            "path": "",
+            "hash": "833af65bc94eea6f8503900ef597ad51"
+        },
+        {
+            "name": "blanktex.txd",
+            "path": "SAMP",
+            "hash": "00dc42d499f5ca6059e4683fd761f032"
+        },
+        {
+            "name": "CUSTOM.ide",
+            "path": "SAMP",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        {
+            "name": "custom.img",
+            "path": "SAMP",
+            "hash": "8fc7f2ec79402a952d5b896b710b3a41"
+        },
+        {
+            "name": "samaps.txd",
+            "path": "SAMP",
+            "hash": "e0fdfd9fbe272baa9284e275fb426610"
+        },
+        {
+            "name": "SAMP.ide",
+            "path": "SAMP",
+            "hash": "9fc8a6769f18d3daceabbbed8632c68e"
+        },
+        {
+            "name": "SAMP.img",
+            "path": "SAMP",
+            "hash": "c85eb523407583f602a2f48df572081f"
+        },
+        {
+            "name": "SAMP.ipl",
+            "path": "SAMP",
+            "hash": "f5fc70efa49b43fc48fc71e3c680b50e"
+        },
+        {
+            "name": "SAMPCOL.img",
+            "path": "SAMP",
+            "hash": "eb690e98b644fa584be6917d48ee6cbc"
+        },
+        {
+            "name": "sampaux3.ttf",
+            "path": "",
+            "hash": "6a03a32076e76f6c1720cad6c6ea6915"
+        },
+        {
+            "name": "sampgui.png",
+            "path": "",
+            "hash": "1423c18dfa2064d967b397227960b93d"
+        },
+        {
+            "name": "SAMPUninstall.exe",
+            "path": "",
+            "hash": "c5529d1faaf3cfd9899ac66280c7ddea"
+        },
+        {
+            "name": "stream.ini",
+            "path": "",
+            "hash": "05b6fdb1ff98a4ec75a58536a0c47b5e"
+        },
+        {
+            "name": "american.gxt",
+            "path": "text",
+            "hash": "265e94aecc43fdb2418b8a332fccc6d6"
+        },
+        {
+            "name": "french.gxt",
+            "path": "text",
+            "hash": "3d069d3322809ccae92f315f53b5ad52"
+        },
+        {
+            "name": "german.gxt",
+            "path": "text",
+            "hash": "7801fc85df72041ba497bade4b258da5"
+        },
+        {
+            "name": "italian.gxt",
+            "path": "text",
+            "hash": "fe4b7386f7149826ec682c5816f91ae4"
+        },
+        {
+            "name": "spanish.gxt",
+            "path": "text",
+            "hash": "71e0281b4ff0ec6f192a2bda4d00effd"
+        },
+        {
+            "name": "unins000.dat",
+            "path": "",
+            "hash": "a8711f6ff1e3640fd22f0e0281570e8f"
+        },
+        {
+            "name": "unins000.exe",
+            "path": "",
+            "hash": "bf075584cddb428f31826e6229714508"
+        },
+        {
+            "name": "Uninstall.exe",
+            "path": "",
+            "hash": "fe33248ae848ab1238c18e706893bc1a"
+        },
+        {
+            "name": "VC_redist.x86.exe",
+            "path": "",
+            "hash": "ae847b3fbabee336879a72e53962c12c"
+        },
+        {
+            "name": "vc.asi",
+            "path": "",
+            "hash": "80f25fb0d748c05784be06878f5fddc0"
+        },
+        {
+            "name": "vorbis.dll",
+            "path": "",
+            "hash": "2840f08dd9753a5b13c60d6d1c165c9a"
+        },
+        {
+            "name": "vorbisFile.dll",
+            "path": "",
+            "hash": "90223f6248b55e0813687fe1b7277dd7"
+        },
+        {
+            "name": "vorbisHooked.dll",
+            "path": "",
+            "hash": "2b7b803311d2b228f065c45d13e1aeb2"
+        }
+    ]
+}
